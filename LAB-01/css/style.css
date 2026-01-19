@@ -1,0 +1,13 @@
+/* Styling an element with a specific ID */
+#my-div {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+/* Styling all elements with a specific class */
+.my-custom-div-class {
+    color: navy;
+    font-size: 18px;
+    margin: 10px;
+}
